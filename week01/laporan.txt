@@ -1,0 +1,15 @@
+On weeko1, we're required to do the following list
+	1.  Clone our repository link from GitHub
+	2.  Create folder "week00" to "week10", and one folder named "SandBox"
+	3.  Fill each folder with dummy file
+	4.  Delete the dummy on week00 and write a short description on week 0 assignment
+	5.  List the contents of os162 directory and record it to lab01.txt
+	6.  Move lab01.txt to week01 
+	7.  On week01, append the current directory to lab01.txt
+	8.  Make myExpextation.txt on week01, push it to GitHub, and edit it from browser
+	9.  Update the repo on badak by doing a pull from GitHub
+	10.  Remove dummy file on week01
+	11.  Copy a script that show the current date
+	12. Run the afromentioned script and append the result to lab01.txt
+	
+	

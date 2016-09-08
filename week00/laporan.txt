@@ -1,0 +1,8 @@
+On week00, we're required to do the following list
+	1. Proofing our presence by replying to a forum
+	2. Make a Google account
+	3. Make a GitHub account
+	4. Make a new GitHub repository
+	5. Filling a form while logged in our Google account
+	6. Check our submission status after waiting for 24h
+	7. Log in badak.cs.ui.ac.id after registered using SIAK account
