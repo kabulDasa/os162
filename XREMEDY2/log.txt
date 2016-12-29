@@ -1,2 +1,4 @@
+Thu Dec 29 25:45:37 WIB 2016 REV01 - remove bracket
+Thu Dec 29 12:45:37 WIB 2016 REV00 - extract content
 Wed Dec 28 23:47:22 WIB 2016 START
-Thu Dec 29 12:45:37 WIB 2016 REV00 
+
