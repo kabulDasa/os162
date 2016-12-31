@@ -1,7 +1,7 @@
-Sat Dec 31 16:20:31 WIB 2016 REV00(ambil2.sh) - use awk instead of sed
-Sat Dec 31 15:45:37 WIB 2016 START(ambil2.sh)
+Sat Dec 31 17:20:31 WIB 2016 REV05 - remove START/STOP line from ranking.txt
+Sat Dec 31 16:20:31 WIB 2016 REV04 - use awk instead of sed for ambil2.sh
+Sat Dec 31 15:45:37 WIB 2016 REV03 - start ambil2.sh
 Thu Dec 29 14:35:31 WIB 2016 REV02 - find and remove line containing DISK, increase w3m dump width
 Thu Dec 29 25:45:37 WIB 2016 REV01 - remove bracket
 Thu Dec 29 12:45:37 WIB 2016 REV00 - extract content
 Wed Dec 28 23:47:22 WIB 2016 START
-
