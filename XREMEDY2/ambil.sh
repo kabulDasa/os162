@@ -7,13 +7,9 @@
 # yang berada diantara string ZCZC dan NNNN, dan menghapus line yang mengandung [DISK]
 
 page="$(w3m -dump -cols 120 http://os162.vlsm.org/2016/11/ranking-os162.html)"
-start="================================================== START BERKAS"
-stop="================================================== STOP BERKAS"
 
 echo "$page" 					> temp
 sed -n '/ZCZC/,/NNNN/{/ZCZC/b;/NNNN/b;p}' temp	> temp1
-echo "$start$(cat temp1)"			> temp1
-echo "$stop"				       >> temp1
 sed 's/\[//g;s/\]//g' temp1                     > ranking.txt
 ex +g/DISK/d -cwq ranking.txt
 rm temp
