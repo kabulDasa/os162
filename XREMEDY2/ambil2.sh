@@ -22,11 +22,11 @@ for value1 in $URL ; do
   arrURL+=("$value1")
 done
 
-for  (( i=0; i<${#arrRK[@]}; i++ )) ; do 
-  var="$(w3m -dump ${arrURL[i]})"
+for  (( ii=0; ii<${#arrRK[@]}; ii++ )) ; do 
+  var="$(w3m -dump ${arrURL[ii]})"
   if [ -z "$var" ]; then
-    touch "${arrRK[i]}-GAGAL.txt"
+    touch "${arrRK[ii]}-GAGAL.txt"
   else
-    w3m -dump -cols 1000 ${arrURL[1]} > "${arrRK[i]}.txt" 
+    w3m -dump -cols 1000 ${arrURL[ii]} > "${arrRK[ii]}.txt" 
   fi 	  
 done 
