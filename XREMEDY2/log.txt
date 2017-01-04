@@ -1,3 +1,4 @@
+Wed Jan 04 23:40:03 WIB 2017 REV06 - add ambil3.sh
 Sat Dec 31 17:20:31 WIB 2016 REV05 - remove START/STOP line from ranking.txt
 Sat Dec 31 16:20:31 WIB 2016 REV04 - use awk instead of sed for ambil2.sh
 Sat Dec 31 15:45:37 WIB 2016 REV03 - start ambil2.sh
